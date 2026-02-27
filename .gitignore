@@ -1,0 +1,25 @@
+# Generated database
+*.duckdb
+*.duckdb.wal
+
+# Analytics outputs
+outputs/
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# R package library
+renv/
+.Rprofile
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log

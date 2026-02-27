@@ -1,0 +1,101 @@
+product_id,product_name,cost,selling_price,inventory_amount
+1,Enamel Pin,4.77,6.39,3275
+2,Art Book,5.54,8.1,1821
+3,Phone Case,9.07,12.46,1908
+4,Booklet,7.67,11.87,3300
+5,Mini Print,16.74,28.24,3675
+6,Wristband,8.26,11.28,3620
+7,Graphic Tee,8.33,13.06,307
+8,Wristband,1.35,1.55,3156
+9,Lanyard,7.39,11.66,766
+10,Wristband,2.99,4.88,756
+11,Patch,6.07,8.11,1842
+12,Collector Figure,4.95,8.21,1792
+13,Desk Mat,10.48,21.19,2090
+14,Collector Figure,6.91,10.88,3938
+15,Notebook,6.34,9.47,4252
+16,Lanyard,5.77,12.05,1278
+17,Notebook,7.51,12.8,4078
+18,Collector Figure,3.05,4.99,557
+19,Wristband,14.58,27.29,4543
+20,Fan Kit,7.49,14.08,2176
+21,Art Book,12.61,16.13,2263
+22,Graphic Tee,29.22,49.36,1986
+23,Mini Print,4.63,6.7,1792
+24,Art Book,15.76,22.98,1772
+25,Hoodie,18.17,25.34,3137
+26,Vinyl Record,13.47,15.49,3084
+27,Graphic Tee,10.51,18,1221
+28,Mini Print,22.52,31.01,3493
+29,Collector Figure,6.07,10.99,2827
+30,Keychain,5.26,8.78,3962
+31,Soundtrack CD,9.21,10.6,926
+32,Exclusive Box,9.44,12.89,290
+33,Graphic Tee,16.24,29.6,501
+34,Mug,15.54,22.46,24
+35,Sticker Pack,8.88,10.21,1742
+36,Booklet,6.79,14.87,2852
+37,Booklet,20.88,34.77,1580
+38,Vinyl Record,2.4,3.59,4526
+39,Vinyl Record,5.2,10.48,1005
+40,Hoodie,10.29,20.04,3346
+41,Sticker Pack,3.9,6.42,1211
+42,Vinyl Record,9.72,11.95,4716
+43,Wristband,5.19,7.63,4328
+44,Collector Figure,5.91,9.53,121
+45,Fan Kit,5.12,7,4591
+46,Collector Figure,14.46,19.64,792
+47,Fan Kit,7.54,10.53,4070
+48,Booklet,6.15,7.07,1803
+49,Phone Case,12.5,23.2,1418
+50,Acrylic Stand,34.68,60.15,1515
+51,Acrylic Stand,8.21,10.78,682
+52,Fan Kit,8.8,13.28,716
+53,Tote Bundle,22,29.44,2420
+54,Sticker Pack,8.98,15.11,1060
+55,Vinyl Record,4.71,6.99,1042
+56,Art Book,7.39,13.32,4161
+57,Art Book,10.2,17.83,4908
+58,Sticker Pack,11.53,13.43,922
+59,Phone Case,4.23,6.05,1435
+60,Wristband,22.14,28.61,2270
+61,Wristband,18.64,28.48,1644
+62,Tote Bag,10.93,17.59,4300
+63,Snapback Cap,5.68,7.21,3161
+64,Streaming Pass,7.1,12.17,111
+65,Enamel Pin,1.69,2.9,3337
+66,Streaming Pass,3.9,6.9,4800
+67,Notebook,3.72,4.79,2735
+68,Mini Print,5.35,7.7,2472
+69,Enamel Pin,21.79,37.7,503
+70,Notebook,6.92,11.31,1728
+71,Mug,10.45,14.64,875
+72,Booklet,5.8,8.95,440
+73,Keychain,11.66,20.14,3782
+74,Phone Case,13.68,17.4,4014
+75,Notebook,16.77,26.83,2824
+76,Vinyl Record,10.93,13.3,2945
+77,Mini Print,26.4,33.76,2219
+78,Fan Kit,4.52,7.93,3083
+79,Acrylic Stand,11.64,14.8,3989
+80,Tote Bag,12.42,14.98,2203
+81,Mug,5.64,7.74,2840
+82,Sticker Pack,14.43,18.01,3298
+83,Exclusive Box,10.35,16.32,631
+84,Hoodie,10.48,14.86,473
+85,Graphic Tee,16.41,27.42,2430
+86,Notebook,7.65,12.19,1800
+87,Booklet,11.78,16.33,2430
+88,Patch,6.94,10.06,4045
+89,Desk Mat,8.74,13.63,4250
+90,Poster Print,45.51,63.64,1714
+91,Mini Print,4.71,6.48,4299
+92,Tote Bag,11.85,21.88,4855
+93,Patch,44.26,65.41,3253
+94,Mug,6.96,12.34,1293
+95,Fan Kit,22.37,35.49,2251
+96,Fan Kit,3.95,6.54,991
+97,Soundtrack CD,10.48,14.19,2835
+98,Press Kit,4.26,6.6,1791
+99,Sticker Pack,3.29,5.02,1685
+100,Enamel Pin,4.77,6.03,2371
