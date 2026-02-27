@@ -79,9 +79,3 @@ database cleanup automatically.
 ## Next Steps
 
 Power BI dashboard in progress, which will connect directly to the outputs of this pipeline.
-
-
-
-## License
-
-MIT. Data is fully synthetic with no real customer or business information.
