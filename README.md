@@ -4,7 +4,7 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 
 **Stack:** R, DuckDB, SQL
 
----
+
 
 ## What This Covers
 
@@ -12,7 +12,7 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 
 **R:** Descriptive statistics, paired t-test, simple linear regression,Pearson correlation, variance analysis
 
----
+
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 - **52.8% of customers showed positive revenue growth** over the year with a median growth rate close to flat, indicating a stable rather than expanding base
 - Paired t-test on inbound vs outbound quantities: **t = 6.13, p < 0.001**, confirming receipts significantly exceed sales volume and pointing to deliberate buffer stocking across the catalog
 
----
+
 
 ## Dataset
 
@@ -39,7 +39,7 @@ Synthetic datasets reflect realistic entertainment merchandise retail patterns:
 - 4% quantity mismatch between invoices and shipments to simulate fulfillment exceptions
 - Receipts backdated to October 2023 to reflect pre-season procurement lead time
 
----
+
 
 ## Project Structure
 
@@ -60,7 +60,7 @@ Synthetic datasets reflect realistic entertainment merchandise retail patterns:
 └── README.md
 ```
 
----
+
 
 ## Usage
 
@@ -74,13 +74,13 @@ source("R/run_all.R")
 Or run each script individually in order. Re-running `run_all.R` handles
 database cleanup automatically.
 
----
+
 
 ## Next Steps
 
 Power BI dashboard in progress, which will connect directly to the outputs of this pipeline.
 
----
+
 
 ## License
 
