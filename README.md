@@ -9,6 +9,7 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 ## What This Covers
 
 **SQL:** INNER and LEFT JOINs, CTEs, GROUP BY and HAVING
+
 **R:** Descriptive statistics, paired t-test, simple linear regression,Pearson correlation, variance analysis
 
 ---
