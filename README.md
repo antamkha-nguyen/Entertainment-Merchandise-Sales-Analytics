@@ -76,6 +76,9 @@ database cleanup automatically.
 
 
 
-## Next Steps
+## Power BI dashboard (In Progress)
 
-Power BI dashboard in progress, which will connect directly to the outputs of this pipeline.
+First Overview: 
+
+<img width="940" height="628" alt="PBI Dashboard_Overview" src="https://github.com/user-attachments/assets/a0e894f4-c27e-4122-8917-55ae75b17e57" />
+
