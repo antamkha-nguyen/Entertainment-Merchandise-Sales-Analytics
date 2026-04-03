@@ -18,6 +18,11 @@ Thumbs.db
 renv/
 .Rprofile
 
+.env
+.env.*
+!.env.example
+.Renviron
+
 # VSCode settings
 .vscode/
 
