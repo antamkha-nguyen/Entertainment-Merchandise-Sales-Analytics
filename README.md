@@ -2,7 +2,7 @@
 
 An end-to-end business intelligence pipeline built in R and DuckDB, covering sales, inventory, fulfillment, and customer analytics for an entertainment merchandise retailer.
 
-**Stack:** R, DuckDB, SQL
+**Stack:** R, SQL (DuckDB)
 
 
 
