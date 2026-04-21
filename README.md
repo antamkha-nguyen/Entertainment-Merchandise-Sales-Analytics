@@ -76,9 +76,10 @@ database cleanup automatically.
 
 
 
-## Power BI dashboard (In Progress)
+## Power BI dashboards
 
-First Overview: 
+Overview & Customer Stats
 
-<img width="940" height="628" alt="PBI Dashboard_Overview" src="https://github.com/user-attachments/assets/a0e894f4-c27e-4122-8917-55ae75b17e57" />
+[Dashboard_Sample.pdf](https://github.com/user-attachments/files/26922126/Dashboard_Sample.pdf)
+
 
