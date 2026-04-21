@@ -29,10 +29,10 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 
 ## Dataset
 
-Synthetic datasets reflect realistic entertainment merchandise retail patterns:
+These synthetic datasets were inspired by a mid-term class project exploring retail analytics in the entertainment merchandise industry, reflecting realistic business patterns, including:
 
 - 200 customers across 15 US states with credit ratings (Excellent / Good / Fair / Poor)
-- 100 products drawn from common merchandise types (Vinyl Record, Poster Print, Collector Figure, etc.)
+- 100 products from common merchandise types (Vinyl Record, Poster Print, Collector Figure, etc.)
 - Power-law skew: 8% of customers and 6% of products drive the majority of transaction volume
 - Q4 and weekend seasonality in date sampling
 - 10% of invoices intentionally unshipped to simulate open order backlog
@@ -78,21 +78,16 @@ database cleanup automatically.
 
 ## Power BI dashboards
 
-Sales Operational Overview
+**Sales Operational Overview**
 
 <img width="800" height="550" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a182327e-1587-4980-b176-1f83586a4f71" />
 
 
-Customer Stats
+**Customer Stats**
 
 <img width="800" height="550" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ec4d019f-1811-46c1-bc0c-e5ebd75834b0" />
 
 
-Modeling View
+**Modeling View**
 
 <img width="650" height="500" alt="Modeling View" src="https://github.com/user-attachments/assets/3693078b-8910-45d9-9e55-3595dfb86f68" />
-
-
-
-
-
