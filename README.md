@@ -33,12 +33,6 @@ These synthetic datasets were inspired by a mid-term class project exploring ret
 
 - 200 customers across 15 US states with credit ratings (Excellent / Good / Fair / Poor)
 - 100 products from common merchandise types (Vinyl Record, Poster Print, Collector Figure, etc.)
-- Power-law skew: 8% of customers and 6% of products drive the majority of transaction volume
-- Q4 and weekend seasonality in date sampling
-- 10% of invoices intentionally unshipped to simulate open order backlog
-- 4% quantity mismatch between invoices and shipments to simulate fulfillment exceptions
-- Receipts backdated to October 2023 to reflect pre-season procurement lead time
-
 
 
 ## Project Structure
