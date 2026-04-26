@@ -75,16 +75,16 @@ database cleanup automatically.
 
 ## Power BI dashboards
 
-**Sales Operational Overview**
+- **Sales Operational Overview**
 
 <img width="800" height="550" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a182327e-1587-4980-b176-1f83586a4f71" />
 
 
-**Customer Stats**
+- **Customer Stats**
 
 <img width="800" height="550" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ec4d019f-1811-46c1-bc0c-e5ebd75834b0" />
 
 
-**Modeling View**
+- **Modeling View**
 
 <img width="650" height="500" alt="Modeling View" src="https://github.com/user-attachments/assets/3693078b-8910-45d9-9e55-3595dfb86f68" />
