@@ -1,6 +1,6 @@
 # Entertainment Merchandise Sales Analytics
 
-An end-to-end business intelligence pipeline built in R and DuckDB, covering sales, inventory, fulfillment, and customer analytics for an entertainment merchandise retailer.
+An end-to-end business intelligence pipeline built in R and DuckDB, covering sales, inventory, fulfillment and customer analytics for an entertainment merchandise retailer.
 
 **Stack:** R, SQL (DuckDB)
 
@@ -31,10 +31,10 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 
 These synthetic datasets were inspired by a mid-term class project exploring retail analytics in the entertainment merchandise industry, reflecting realistic business patterns, including:
 
-- 2,000 customers spread across 15 US states, each assigned a credit rating (Excellent / Good / Fair / Poor)
-- 800 products drawn from general merchandise categories like Beverages, Snacks, Electronics, and Household goods
-- 50,000 sales invoices with unit prices, quantities, and dates spanning January through December 2024
-- 45,174 shipments, with some sales unshipped and some quantities differing from the original invoice
+- 200 customers across 15 US states, each assigned a credit rating (Excellent / Good / Fair / Poor)
+- 100 products from common merchandise types (Enamel Pin, Art Book, Collector Figure, Graphic Tee, etc.)
+- 12,000 sales invoices with unit prices, quantities and dates spanning January through December 2024
+- 10,734 shipments, with some sales unshipped and some quantities differing from the original invoice
 - 20,000 receipts tracking inbound inventory, with some dating back to October 2023 to reflect procurement lead times
 
 
