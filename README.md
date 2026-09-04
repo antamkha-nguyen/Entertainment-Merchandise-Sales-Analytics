@@ -20,7 +20,7 @@ An end-to-end business intelligence pipeline built in R and DuckDB, covering sal
 - **8,491 shipments arrived late**, averaging a **4.2-day delay** from invoice to delivery
 - **3.85% of shipments** had a quantity mismatch against the original invoice
 - Top customer Emma Garcia spent **$54,189**, over $3,000 more than the next closest account, indicating one dominant buyer in the customer base
-- Customers averaged **66 orders** and **8.5 units per order** across the period
+- Customers averaged **60 orders** and **8.5 units per order** across the period
 - Revenue per transaction was nearly flat across credit tiers: Poor-rated customers averaged **$146**, only slightly above Excellent at **$133**, suggesting credit rating does not strongly predict order size
 - **52.8% of customers showed positive revenue growth** over the year with a median growth rate close to flat, indicating a stable rather than expanding base
 - Paired t-test on inbound vs outbound quantities: **t = 6.13, p < 0.001**, confirming receipts significantly exceed sales volume and pointing to deliberate buffer stocking across the catalog
